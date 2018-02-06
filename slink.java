@@ -21,7 +21,6 @@ class stack{
 		else 
 		{
 	a.next=head;
-	head=a;
 		}
 		
 	}
